@@ -1,0 +1,5 @@
+## Inspection Notes
+
+* This is the first bullet point.
+* This is the second bullet point.
+* This is the third bullet point.
