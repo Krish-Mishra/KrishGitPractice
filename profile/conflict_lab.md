@@ -1,2 +1,2 @@
 ## Conflict Lab
-This line will be changed by two branches.
+Current branch says chaos builds character.
