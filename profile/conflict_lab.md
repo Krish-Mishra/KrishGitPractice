@@ -1,2 +1,2 @@
 ## Conflict Lab
-This line will be changed by two branches.
+Incoming change from develop says consistency beats chaos.
