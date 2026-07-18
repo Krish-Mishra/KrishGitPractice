@@ -10,4 +10,5 @@ Hello, My name is Krish Mishra and I am a pre final year student at IET DAVV, In
 3. Practiced soft reset - Saturday, July 18, 2026 - 11:51AM
 4. Added peer review - Saturday, July 18, 2026 - 2:46PM
 5. Added self review - Saturday, July 18, 2026 - 2:50PM
+6. Added rebase-first entry - Krish Mishra - Saturday, July 18, 2026 - 3:13PM
 
