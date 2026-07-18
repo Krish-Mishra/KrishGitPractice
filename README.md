@@ -6,3 +6,5 @@ Hello, My name is Krish Mishra and I am a pre final year student at IET DAVV, In
 
 ### Progress Tracker
 1. Created profile details - Krish Mishra - Friday 10th July 2026 - 3:33AM
+2. Started journal work - Saturday, July 18, 2026 - 11:48AM
+3. Practiced soft reset - Saturday, July 18, 2026 - 11:51AM
