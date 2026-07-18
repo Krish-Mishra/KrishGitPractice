@@ -8,3 +8,8 @@
 * use checkout and plain git pull.
 * use fetch and rebase to resolve conflicts.
 * use force-with-lease push for doing a safe push after the rebase.
+
+## Random Ideas
+* Egg came first before chicken.
+* We should make a coachmark for our project.
+* There should be some code testers also.
