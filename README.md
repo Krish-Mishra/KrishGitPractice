@@ -13,3 +13,5 @@ Hello, My name is Krish Mishra and I am a pre final year student at IET DAVV, In
 6. Added rebase-first entry - Krish Mishra - Saturday, July 18, 2026 - 3:13PM
 7. Added rebase-second entry - Krish Mishra - Saturday, July 18, 2026 - 3:17PM
 8. Cherry-picked useful notes - Saturday, July 18, 2026 - 5:19PM
+
+**Live Profile link:** https://krish-mishra.github.io/KrishGitPractice/
