@@ -14,4 +14,6 @@ Hello, My name is Krish Mishra and I am a pre final year student at IET DAVV, In
 7. Added rebase-second entry - Krish Mishra - Saturday, July 18, 2026 - 3:17PM
 8. Cherry-picked useful notes - Saturday, July 18, 2026 - 5:19PM
 9. Added Capstone Feature entry - 11:40PM
+10. Added Capstone Conflict entry - 11:42PM
+
 **Live Profile link:** https://krish-mishra.github.io/KrishGitPractice/
